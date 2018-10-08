@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cdogs1964/palindrome/issues"
   },
-  "homepage": "https://github.com/cdogs1964/palindrome#readme"
+  "homepage": "https://github.com/cdogs1964/palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.2"
+  }
 }
